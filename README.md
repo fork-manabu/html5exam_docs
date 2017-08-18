@@ -3,7 +3,6 @@
 ## Install
 
 	npm install gulp -g
-    npm install pug-cli -g
     git clone https://github.com/asaandyoru/html5exam_docs
 
 ## Setup
