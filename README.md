@@ -1,12 +1,8 @@
-# html5感資料
-
-## Install
-
-	npm install gulp -g
-    git clone https://github.com/asaandyoru/html5exam_docs
+# 20170826 HTML5感。 14:30 [B] 資料
 
 ## Setup
 
-	cd html5exam_docs/_app
+    git clone https://github.com/asaandyoru/html5exam_docs
+    cd html5exam_docs/_app
     npm install
-    gulp watch
+    npm run build
