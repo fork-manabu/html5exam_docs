@@ -1,0 +1,22 @@
+- var title             = config.local.title;
+- var description       = config.local.description;
+- var keywords          = config.local.keywords;
+- var og_url            = config.default.og_url;
+- var og_title          = config.default.og_title;
+- var og_image          = config.default.og_image;
+
+block var_block
+
+doctype
+html(lang="ja")
+  head
+    title=title
+    meta(name="description", content=description)
+    meta(name="keywords", content=keywords)
+    meta(property='og:url', content=og_url)
+    meta(property='og:title', content=og_title)
+    meta(property='og:image', content=og_image)
+  body
+    header
+    block content
+    footer

@@ -1,0 +1,23 @@
+
+  "local": {
+    "/sample4/index.html" :{
+      "title" :"トップページ",
+      "description" :"トップページ description",
+      "keywords" :"トップページ keywords"
+    },
+    "/sample4/about/index.html" :{
+      "title" :"aboutページ",
+      "description" :"aboutページ description",
+      "keywords" :"aboutページ keywords"
+    },
+    "/sample4/info/index.html" :{
+      "title" :"infoページ",
+      "description" :"infoページ description",
+      "keywords" :"infoページ keywords"
+    },
+    "/sample4/contact/index.html" :{
+      "title" :"contactページ タイトル",
+      "description" :"contactページ description",
+      "keywords" :"contactページ keywords"
+    }
+  }

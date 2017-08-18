@@ -1,0 +1,21 @@
+{
+  "default" : {
+    "og_url" : "//www.fork.co.jp",
+    "og_title" : "株式会社フォーク",
+    "og_image" : "//www.fork.co.jp/img/og.png"
+  },
+  "local": {
+    "/sample6/index.html" :{
+      "title" :"TOP | 株式会社フォーク",
+      "description" :"TOPページ"
+    },
+    "/sample6/about/index.html" :{
+      "title" :"会社概要 | 株式会社フォーク",
+      "description" :"会社概要"
+    },
+    "/sample6/info/index.html" :{
+      "title" :"会社理念 | 株式会社フォーク",
+      "description" :"会社理念"
+    }
+  }
+}

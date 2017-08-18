@@ -1,0 +1,21 @@
+
+//- default global var
+- var title             = "デフォルトタイトル";
+- var description       = "デフォルトディスクリプション";
+- var keywords          = "デフォルトキーワード";
+
+//- var override
+block var_block
+
+doctype
+html(lang="ja")
+  head
+    meta(charset="utf-8")
+    meta(name="description", content=description)
+    meta(name="keywords", content=keywords)
+    title!=title
+  body
+    header
+    .wrapper
+      block content
+    footer
