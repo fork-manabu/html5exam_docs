@@ -1,4 +1,5 @@
-# ディレクトリ
 /.idea
 /node_modules
 /_app/node_modules
+/html
+yarn.lock
