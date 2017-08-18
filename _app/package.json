@@ -8,6 +8,10 @@
   },
   "author": "asaandyoru",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asaandyoru/html5exam_docs.git"
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-data": "^1.2.1",
