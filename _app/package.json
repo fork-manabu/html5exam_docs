@@ -4,7 +4,8 @@
   "description": "html5exam docs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "gulp watch"
+    "watch": "gulp watch",
+    "build": "gulp build"
   },
   "author": "asaandyoru",
   "license": "ISC",
