@@ -1,14 +1,17 @@
 {
-  "name": "test",
+  "name": "html5exam_docs",
   "version": "1.0.0",
-  "description": "test",
-  "main": "gulpfile.js",
+  "description": "html5exam docs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "gulp watch"
   },
-  "author": "",
+  "author": "asaandyoru",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asaandyoru/html5exam_docs.git"
+  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-data": "^1.2.1",
